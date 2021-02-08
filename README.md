@@ -4,6 +4,9 @@ A hand-drawn comic that is hosted on a website. Come, Scroll, Have Fun with us t
 <b>PROJECT NAME</b><br>
 Spooky Night 
 
+<b>LINK TO PROJECT</b><br>
+https://shreya81601.github.io/spookynightcomic.github.io/
+
 <b>PROJECT DESCRIPTION</b>
 <p>SPOOKY NIGHT is a web-based comic, designed for halloween, which aims to create a friendly, enjoyable narrative for the purpose of entertainment. It outlines the story of two ghosts who talk about the human world on Halloween (as opposed to us humans thinking abouts ghosts on this occasional day). One of the ghosts - Pie - thinks that she is very smart, hence the other one - Pumpkin - decides to test her by asking a series of silly joke-cum-riddles. Since, it is a prank played by Pumpkin on Pie, the user gets a sense that the questions won't be very legit, rather funny and stupid which are designed as such that one won't be able to guess them easily if they use 'common sense'.</p>
 <p>Our aim was to create a very cheerful, friendly website which would keep this theme in mind. As a result, we used very comicy and cartoonish illustrations which hint at the rustyness and unsophistication of the entire idea, giving it a playful vibe. We intend to keep it a light-hearted humour that is not very intense, thus the choice of solid colors (with slight gradients) and block illustrations. The color pallete we used is inspired by the Halloween themed story and hence the widely used colors are orange, white, black and purple. The joke-cum-riddles themselves were not specifically halloween themed as halloween is being celebrated by the ghosts and not humans.</p>
